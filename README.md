@@ -37,6 +37,9 @@ Here is Flowchart for this Template:
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b8259b47-d87a-4af7-9b2b-8048747be26d" width=50% height=50%>
 </p>  
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5cee873f-2029-4ed5-bb68-3cde1f4794c8" width=80% height=80%>
+</p>  
 
 ### 初期化と記録
 初めて実行された場合、はじめて時間の計測を開始します。  
